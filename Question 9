@@ -1,0 +1,3 @@
+isbool = map(lambda x:x.upper(), ['True','FALse','tRUe','tRue','False','faLse'])
+output = list(isbool)
+print(output)
